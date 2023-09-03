@@ -1,0 +1,6 @@
+server:
+  port: 8082
+
+api:
+  query:
+    path: 'http://localhost:8083/students'
